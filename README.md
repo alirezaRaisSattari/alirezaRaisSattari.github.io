@@ -11,6 +11,7 @@ Mid-Level Node.js Developer
 - Thorough Understanding of Node.js
 - Hands-on experience with infrastructure automation tools and technologies like Docker.
 - Familiar and Passionate about in Linux
+- I am passionate about being part of a team as a developer, where I can contribute my skills and learn from others to create innovative solutions and drive technological advancement
 - Interested in solving challenging problem and designing algorithm
 - Familiar with clean code principle and some design patterns
 - Familiar and experience with frontend frameworks

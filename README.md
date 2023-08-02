@@ -8,19 +8,18 @@ Mid-Level Node.js Developer
 - GitHub: github.com/alirezaRaisSattari/
 
 ## Summary
-Mid-level Node.js developer.
-Skilled in developing javascript and typescript program
-Experience with Nest.js, Node.js, GraphQL, MongoDB, Prisma, Redis
-Thorough Understanding of Node.js
-Hands-on experience with infrastructure automation tools and technologies like Docker.
-Familiar and Passionate about in Linux
-Interested in solving challenging problem and designing algorithm
-Familiar with clean code principle and some design patterns
+- Skilled in developing javascript and typescript program.
+- Thorough Understanding of Node.js
+- Hands-on experience with infrastructure automation tools and technologies like Docker.
+- Familiar and Passionate about in Linux
+- Interested in solving challenging problem and designing algorithm
+- Familiar with clean code principle and some design patterns
+- Familiar and experience with frontend frameworks
 
 ## Education
 - Bachelor's student in Computer Engineering at Ferdowsi University Mashhad
 
-## Experience
+## Experience (summery)
 ### node.js Developer, Part Software group, six month
 - back-end developer of devOps team (developing PaaS system)
 - Node.js, Prisma, Postgress GraphQL, Jest
@@ -33,6 +32,11 @@ Familiar with clean code principle and some design patterns
 - back-end developer
 - Node.js, mongoDB
 
+### some other experience
+- frontend developer at uper(vue.js) and bluHost(vanila.js)
+- fullstack developer at cloudgpu (node.js)
+
 ## Skills
-- Node.js, Nest.js, MongoDB, Prisma, and Redwood.js
+- Node.js, Nest.js, MongoDB, Prisma, GraphQL, Redis and Redwood.js
 - Vue.js, React.js(frontend skill)
+- linux OS

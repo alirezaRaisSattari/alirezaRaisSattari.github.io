@@ -1,41 +1,38 @@
-# [Your Full Name] 
+# Alireza Rais Sattari 
 Mid-Level Node.js Developer
 
 ## Contact Information
-- Email: [Your email]
-- Phone: [Your phone number]
-- LinkedIn: [Your LinkedIn profile]
-- GitHub: [Your GitHub profile]
+- Email: asatari1381@gmail.com
+- Phone: +989025378079
+- LinkedIn: www.linkedin.com/in/alireza-rais-sattari-0a1b05219
+- GitHub: github.com/alirezaRaisSattari/
 
 ## Summary
-Mid-level Node.js developer with [number of years of experience] in building web applications. Proficient in Node.js, Nest.js, Vue.js, React.js, MongoDB, Prisma, and Redwood.js. Passionate about [mention some passions related to Node.js development].
+Mid-level Node.js developer.
+Skilled in developing javascript and typescript program
+Experience with Nest.js, Node.js, GraphQL, MongoDB, Prisma, Redis
+Thorough Understanding of Node.js
+Hands-on experience with infrastructure automation tools and technologies like Docker.
+Familiar and Passionate about in Linux
+Interested in solving challenging problem and designing algorithm
+Familiar with clean code principle and some design patterns
 
 ## Education
-- [Degree], [University], [Year of Graduation]
-- [Any relevant certifications]
+- Bachelor's student in Computer Engineering at Ferdowsi University Mashhad
 
 ## Experience
-### [Job title], [Company name], [Dates of employment]
-- [Briefly describe your role and responsibilities]
-- [Highlight any significant achievements or impacts you made]
-- [Describe the technologies and frameworks you used in this role]
+### node.js Developer, Part Software group, six month
+- back-end developer of devOps team (developing PaaS system)
+- Node.js, Prisma, Postgress GraphQL, Jest
 
-### [Job title], [Company name], [Dates of employment]
-- [Briefly describe your role and responsibilities]
-- [Highlight any significant achievements or impacts you made]
-- [Describe the technologies and frameworks you used in this role]
+### nest.js Developer, Spad Software group, six month
+- back-end developer
+- Nest.js, mongoDB
+
+### nest.js Developer, Sekebit, one years
+- back-end developer
+- Node.js, mongoDB
 
 ## Skills
-- Proficient in Node.js, Nest.js, Vue.js, React.js, MongoDB, Prisma, and Redwood.js
-- [Any other relevant skills]
-
-## Projects
-### [Project name]
-- Role: [Your role in the project]
-- Description: [Brief description of the project]
-- Technologies: [Technologies used in the project]
-
-### [Project name]
-- Role: [Your role in the project]
-- Description: [Brief description of the project]
-- Technologies: [Technologies used in the project]
+- Node.js, Nest.js, MongoDB, Prisma, and Redwood.js
+- Vue.js, React.js(frontend skill)

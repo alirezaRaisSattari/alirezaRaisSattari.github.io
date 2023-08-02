@@ -1,11 +1,10 @@
 # Alireza Rais Sattari 
 Mid-Level Node.js Developer
 
-## Contact Information
-- Email: asatari1381@gmail.com
-- Phone: +989025378079
-- LinkedIn: www.linkedin.com/in/alireza-rais-sattari-0a1b05219
-- GitHub: github.com/alirezaRaisSattari/
+## Skills
+- Node.js, Nest.js, MongoDB, Prisma, GraphQL, Redis and Redwood.js
+- Vue.js, React.js(frontend skill)
+- linux OS
 
 ## Summary
 - Skilled in developing javascript and typescript program.
@@ -36,7 +35,8 @@ Mid-Level Node.js Developer
 - frontend developer at uper(vue.js) and bluHost(vanila.js)
 - fullstack developer at cloudgpu (node.js)
 
-## Skills
-- Node.js, Nest.js, MongoDB, Prisma, GraphQL, Redis and Redwood.js
-- Vue.js, React.js(frontend skill)
-- linux OS
+## Contact Information
+- Email: asatari1381@gmail.com
+- Phone: +989025378079
+- LinkedIn: www.linkedin.com/in/alireza-rais-sattari-0a1b05219
+- GitHub: github.com/alirezaRaisSattari/
